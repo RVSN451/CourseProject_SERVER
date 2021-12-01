@@ -1,0 +1,186 @@
+2021-12-01 23:27:59.512 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:28:25.969 [MainServer] INFO  org.example.Server - Пользователь 7925eb8d-f9f2-4fcf-b7c2-5b0f31cfcf75 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61732,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:28:32.459 [Thread-1] INFO  org.example.Server - Пользователю 7925eb8d-f9f2-4fcf-b7c2-5b0f31cfcf75 
+			присвоено ИМЯ: 'qqq'.
+2021-12-01 23:28:40.499 [Thread-1] INFO  org.example.Server - Пользователь 7925eb8d-f9f2-4fcf-b7c2-5b0f31cfcf75
+			с именем 'qqq': qqq: kjb
+2021-12-01 23:31:27.939 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:31:36.249 [MainServer] INFO  org.example.Server - Пользователь eefead7f-07f5-4c4d-9e29-f0d8a1d22c20 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61751,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:31:43.051 [Thread-1] INFO  org.example.Server - Пользователю eefead7f-07f5-4c4d-9e29-f0d8a1d22c20 
+			присвоено ИМЯ: '111'.
+2021-12-01 23:31:46.446 [Thread-1] INFO  org.example.Server - Пользователь eefead7f-07f5-4c4d-9e29-f0d8a1d22c20
+			с именем '111': 111: luihg
+2021-12-01 23:31:47.070 [Thread-1] INFO  org.example.Server - Пользователь eefead7f-07f5-4c4d-9e29-f0d8a1d22c20
+			с именем '111': 111: khvg
+2021-12-01 23:31:48.150 [Thread-1] INFO  org.example.Server - Пользователь eefead7f-07f5-4c4d-9e29-f0d8a1d22c20
+			с именем '111': 111: khjv
+2021-12-01 23:39:53.086 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:39:53.522 [MainServer] INFO  org.example.Server - Пользователь 5a07b801-9492-4dea-aeb8-6372690e681c 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61787,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:40:03.556 [socket.getInetAddress() + "_" + socket.getPort()] INFO  org.example.Server - Пользователю 5a07b801-9492-4dea-aeb8-6372690e681c 
+			присвоено ИМЯ: 'TTT'.
+2021-12-01 23:40:04.674 [socket.getInetAddress() + "_" + socket.getPort()] INFO  org.example.Server - Пользователь 5a07b801-9492-4dea-aeb8-6372690e681c
+			с именем 'TTT': TTT: lkhbad
+2021-12-01 23:40:05.315 [socket.getInetAddress() + "_" + socket.getPort()] INFO  org.example.Server - Пользователь 5a07b801-9492-4dea-aeb8-6372690e681c
+			с именем 'TTT': TTT: jhv
+2021-12-01 23:40:05.874 [socket.getInetAddress() + "_" + socket.getPort()] INFO  org.example.Server - Пользователь 5a07b801-9492-4dea-aeb8-6372690e681c
+			с именем 'TTT': TTT: ,jb
+2021-12-01 23:40:48.979 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:40:51.203 [MainServer] INFO  org.example.Server - Пользователь b5098fca-e2da-4c2a-b81e-30064ca88c90 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61797,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:40:57.251 [/127.0.0.1_61797] INFO  org.example.Server - Пользователю b5098fca-e2da-4c2a-b81e-30064ca88c90 
+			присвоено ИМЯ: 'RRR'.
+2021-12-01 23:40:58.466 [/127.0.0.1_61797] INFO  org.example.Server - Пользователь b5098fca-e2da-4c2a-b81e-30064ca88c90
+			с именем 'RRR': RRR: l/kn
+2021-12-01 23:41:00.973 [/127.0.0.1_61797] INFO  org.example.Server - Пользователь b5098fca-e2da-4c2a-b81e-30064ca88c90
+			с именем 'RRR': RRR: lkjhkjb
+2021-12-01 23:42:36.814 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:42:39.425 [MainServer] INFO  org.example.Server - Пользователь d8047b66-56c0-43f5-8836-4f08a14290c3 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61813,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:43:00.047 [Client/127.0.0.1_61813] INFO  org.example.Server - Пользователю d8047b66-56c0-43f5-8836-4f08a14290c3 
+			присвоено ИМЯ: 'TTT'.
+2021-12-01 23:43:00.901 [Client/127.0.0.1_61813] INFO  org.example.Server - Пользователь d8047b66-56c0-43f5-8836-4f08a14290c3
+			с именем 'TTT': TTT: LIH
+2021-12-01 23:43:01.886 [Client/127.0.0.1_61813] INFO  org.example.Server - Пользователь d8047b66-56c0-43f5-8836-4f08a14290c3
+			с именем 'TTT': TTT: lih
+2021-12-01 23:43:02.800 [Client/127.0.0.1_61813] INFO  org.example.Server - Пользователь d8047b66-56c0-43f5-8836-4f08a14290c3
+			с именем 'TTT': TTT: lj
+2021-12-01 23:44:29.312 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:45:44.358 [MainServer] INFO  org.example.Server - Пользователь 1475ed80-c83f-4ca6-9add-fd6eb201235f 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61828,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:45:48.360 [Client/127.0.0.1_61828] INFO  org.example.Server - Пользователю 1475ed80-c83f-4ca6-9add-fd6eb201235f присвоено ИМЯ: 'HHHH'.
+2021-12-01 23:45:48.960 [Client/127.0.0.1_61828] INFO  org.example.Server - Пользователь 1475ed80-c83f-4ca6-9add-fd6eb201235f
+			с именем 'HHHH': HHHH: lkj
+2021-12-01 23:45:49.515 [Client/127.0.0.1_61828] INFO  org.example.Server - Пользователь 1475ed80-c83f-4ca6-9add-fd6eb201235f
+			с именем 'HHHH': HHHH: kj
+2021-12-01 23:45:50.076 [Client/127.0.0.1_61828] INFO  org.example.Server - Пользователь 1475ed80-c83f-4ca6-9add-fd6eb201235f
+			с именем 'HHHH': HHHH: ,
+2021-12-01 23:47:34.227 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:47:50.173 [MainServer] INFO  org.example.Server - Пользователь 5e2cf2d1-7922-4134-972d-457b735b217f 
+			 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61835,localport=8080]Количество пользователей в сети: 1.
+2021-12-01 23:47:54.832 [Client/127.0.0.1_61835] INFO  org.example.Server - Пользователю 5e2cf2d1-7922-4134-972d-457b735b217f присвоено ИМЯ: 'YYY'.
+2021-12-01 23:47:56.717 [Client/127.0.0.1_61835] INFO  org.example.Server - Пользователь 5e2cf2d1-7922-4134-972d-457b735b217f: YYY: kjgb
+2021-12-01 23:47:57.315 [Client/127.0.0.1_61835] INFO  org.example.Server - Пользователь 5e2cf2d1-7922-4134-972d-457b735b217f: YYY: kjh
+2021-12-01 23:49:29.487 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:49:46.683 [MainServer] INFO  org.example.Server - Пользователь 4cd490a9-83cb-4a08-999b-b767e320c90f присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61842,localport=8080]. Количество пользователей в сети: 1.
+2021-12-01 23:49:50.345 [Client/127.0.0.1_61842] INFO  org.example.Server - Пользователю 4cd490a9-83cb-4a08-999b-b767e320c90f присвоено ИМЯ: 'UUU'.
+2021-12-01 23:49:50.959 [Client/127.0.0.1_61842] INFO  org.example.Server - Пользователь 4cd490a9-83cb-4a08-999b-b767e320c90f: UUU: lkj
+2021-12-01 23:49:51.508 [Client/127.0.0.1_61842] INFO  org.example.Server - Пользователь 4cd490a9-83cb-4a08-999b-b767e320c90f: UUU: khj
+2021-12-01 23:49:52.037 [Client/127.0.0.1_61842] INFO  org.example.Server - Пользователь 4cd490a9-83cb-4a08-999b-b767e320c90f: UUU: kj
+2021-12-01 23:55:31.704 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-01 23:55:39.343 [MainServer] INFO  org.example.Server - Пользователь b2c1c37b-388e-418d-acaa-b0084064eb9f присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61861,localport=8080]. Количество пользователей в сети: 1.
+2021-12-01 23:56:15.272 [Client/127.0.0.1_61861] INFO  org.example.Server - Пользователю b2c1c37b-388e-418d-acaa-b0084064eb9f присвоено ИМЯ: '/exit'.
+2021-12-01 23:56:25.736 [Client/127.0.0.1_61861] INFO  org.example.Server - Пользователь b2c1c37b-388e-418d-acaa-b0084064eb9f: /exit: HHH
+2021-12-01 23:56:30.560 [Client/127.0.0.1_61861] INFO  org.example.Server - Пользователь b2c1c37b-388e-418d-acaa-b0084064eb9f: /exit: /exit
+2021-12-01 23:56:31.907 [Client/127.0.0.1_61861] ERROR org.example.Server - Пользователь b2c1c37b-388e-418d-acaa-b0084064eb9f с именем /exit покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:01:14.789 [MainServer] INFO  org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61887,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:01:18.658 [Client/127.0.0.1_61887] INFO  org.example.Server - Пользователю 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e присвоено ИМЯ: 'jjj'.
+2021-12-02 00:01:19.858 [Client/127.0.0.1_61887] INFO  org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e: jjj: ljb
+2021-12-02 00:01:20.744 [Client/127.0.0.1_61887] INFO  org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e: jjj: lkjh
+2021-12-02 00:01:21.929 [Client/127.0.0.1_61887] INFO  org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e: jjj: ljhk
+2021-12-02 00:01:26.789 [Client/127.0.0.1_61887] INFO  org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e: jjj: /exit
+2021-12-02 00:01:27.383 [Client/127.0.0.1_61887] ERROR org.example.Server - Пользователь 7eb6fd92-a802-4bf2-b8d4-af9ad86c433e с именем jjj покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:02:33.275 [MainServer] INFO  org.example.Server - Пользователь daab7fd1-7e27-4626-9756-2216c274bd09 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61894,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:02:37.304 [Client/127.0.0.1_61894] INFO  org.example.Server - Пользователю daab7fd1-7e27-4626-9756-2216c274bd09 присвоено ИМЯ: 'hhh'.
+2021-12-02 00:02:46.337 [Client/127.0.0.1_61894] INFO  org.example.Server - Пользователь daab7fd1-7e27-4626-9756-2216c274bd09: hhh: kj
+2021-12-02 00:02:47.069 [Client/127.0.0.1_61894] INFO  org.example.Server - Пользователь daab7fd1-7e27-4626-9756-2216c274bd09: hhh: kj
+2021-12-02 00:02:55.544 [Client/127.0.0.1_61894] INFO  org.example.Server - Пользователь daab7fd1-7e27-4626-9756-2216c274bd09: hhh: /exit
+2021-12-02 00:02:57.914 [Client/127.0.0.1_61894] ERROR org.example.Server - Пользователь daab7fd1-7e27-4626-9756-2216c274bd09 с именем hhh покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:06:08.951 [MainServer] INFO  org.example.Server - Пользователь f1672611-9477-4a54-b933-357d9d8400c7 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61901,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:06:11.920 [Client/127.0.0.1_61901] INFO  org.example.Server - Пользователю f1672611-9477-4a54-b933-357d9d8400c7 присвоено ИМЯ: 'hjgc'.
+2021-12-02 00:06:12.904 [Client/127.0.0.1_61901] INFO  org.example.Server - Пользователь f1672611-9477-4a54-b933-357d9d8400c7: hjgc: kug
+2021-12-02 00:06:13.817 [Client/127.0.0.1_61901] INFO  org.example.Server - Пользователь f1672611-9477-4a54-b933-357d9d8400c7: hjgc: jkhg
+2021-12-02 00:06:17.652 [Client/127.0.0.1_61901] INFO  org.example.Server - Пользователь f1672611-9477-4a54-b933-357d9d8400c7: hjgc: /exit
+2021-12-02 00:06:19.529 [Client/127.0.0.1_61901] ERROR org.example.Server - Пользователь f1672611-9477-4a54-b933-357d9d8400c7 с именем hjgc покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:08:13.068 [MainServer] INFO  org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61911,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:08:17.195 [Client/127.0.0.1_61911] INFO  org.example.Server - Пользователю 78653f6a-78a4-40be-b5d8-770021e06e83 присвоено ИМЯ: 'JJJ'.
+2021-12-02 00:08:17.990 [Client/127.0.0.1_61911] INFO  org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83: JJJ: kg
+2021-12-02 00:08:18.560 [Client/127.0.0.1_61911] INFO  org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83: JJJ: khjb
+2021-12-02 00:08:19.595 [Client/127.0.0.1_61911] INFO  org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83: JJJ: lkjgh
+2021-12-02 00:08:26.143 [Client/127.0.0.1_61911] INFO  org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83: JJJ: /exit
+2021-12-02 00:12:15.577 [Client/127.0.0.1_61911] ERROR org.example.Server - Пользователь 78653f6a-78a4-40be-b5d8-770021e06e83 с именем JJJ покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:12:25.871 [MainServer] INFO  org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=61920,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:12:30.234 [Client/127.0.0.1_61920] INFO  org.example.Server - Пользователю 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6 присвоено ИМЯ: 'JJJ'.
+2021-12-02 00:12:30.939 [Client/127.0.0.1_61920] INFO  org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6: JJJ: jhfv
+2021-12-02 00:12:31.539 [Client/127.0.0.1_61920] INFO  org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6: JJJ: khjb
+2021-12-02 00:12:32.693 [Client/127.0.0.1_61920] INFO  org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6: JJJ: jkb
+2021-12-02 00:12:36.280 [Client/127.0.0.1_61920] INFO  org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6: JJJ: /exit
+2021-12-02 00:12:38.462 [Client/127.0.0.1_61920] ERROR org.example.Server - Пользователь 27ff3ed2-8641-4041-a5c4-7e4c9cc930c6 с именем JJJ покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:45:04.890 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 00:45:19.306 [MainServer] INFO  org.example.Server - Пользователь bb4f2539-b00c-483b-9aae-fe793987a264 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62058,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:45:23.098 [Client/127.0.0.1_62058] INFO  org.example.Server - Пользователю bb4f2539-b00c-483b-9aae-fe793987a264 присвоено ИМЯ: 'OOO'.
+2021-12-02 00:45:23.931 [Client/127.0.0.1_62058] INFO  org.example.Server - Пользователь bb4f2539-b00c-483b-9aae-fe793987a264: OOO: jkhfv
+2021-12-02 00:45:24.471 [Client/127.0.0.1_62058] INFO  org.example.Server - Пользователь bb4f2539-b00c-483b-9aae-fe793987a264: OOO: dgfh
+2021-12-02 00:48:36.941 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 00:48:39.371 [MainServer] INFO  org.example.Server - Пользователь 90235487-9b3a-4943-8c00-b035fa77cfe6 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62075,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:48:42.976 [Client/127.0.0.1_62075] INFO  org.example.Server - Пользователю 90235487-9b3a-4943-8c00-b035fa77cfe6 присвоено ИМЯ: 'kkk'.
+2021-12-02 00:48:44.251 [Client/127.0.0.1_62075] INFO  org.example.Server - Пользователь 90235487-9b3a-4943-8c00-b035fa77cfe6: kkk: .kjb
+2021-12-02 00:48:44.819 [Client/127.0.0.1_62075] INFO  org.example.Server - Пользователь 90235487-9b3a-4943-8c00-b035fa77cfe6: kkk: lkj
+2021-12-02 00:55:02.833 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 00:55:05.901 [MainServer] INFO  org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62101,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:55:10.073 [Client/127.0.0.1_62101] INFO  org.example.Server - Пользователю e64d9c14-4759-4249-9f0c-fd43f38505fb присвоено ИМЯ: 'ooo'.
+2021-12-02 00:55:10.841 [Client/127.0.0.1_62101] INFO  org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb: ooo: kjfg
+2021-12-02 00:55:11.931 [Client/127.0.0.1_62101] INFO  org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb: ooo: likug
+2021-12-02 00:55:12.726 [Client/127.0.0.1_62101] INFO  org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb: ooo: ,jhgv
+2021-12-02 00:55:17.031 [Client/127.0.0.1_62101] INFO  org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb: ooo: /exit
+2021-12-02 00:55:17.692 [Client/127.0.0.1_62101] ERROR org.example.Server - Пользователь e64d9c14-4759-4249-9f0c-fd43f38505fb с именем ooo покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 00:58:36.180 [MainServer] INFO  org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62111,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 00:58:40.615 [Client/127.0.0.1_62111] INFO  org.example.Server - Пользователю edbf7312-de46-482d-b31f-e48f401a9ba7 присвоено ИМЯ: 'jjj'.
+2021-12-02 00:58:41.395 [Client/127.0.0.1_62111] INFO  org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7: jjj: lkijhv
+2021-12-02 00:58:42.054 [Client/127.0.0.1_62111] INFO  org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7: jjj: df
+2021-12-02 00:58:42.549 [Client/127.0.0.1_62111] INFO  org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7: jjj: dfb
+2021-12-02 00:58:46.977 [Client/127.0.0.1_62111] INFO  org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7: jjj: /exit
+2021-12-02 00:58:47.654 [Client/127.0.0.1_62111] ERROR org.example.Server - Пользователь edbf7312-de46-482d-b31f-e48f401a9ba7 с именем jjj покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 01:06:01.362 [MainServer] INFO  org.example.Server - Пользователь 7a196afc-b9b0-4e1e-897b-4d9f2b5cbed9 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62151,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:06:12.206 [MainServer] INFO  org.example.Server - Пользователь 23ab9bf2-2bcd-463b-b357-5812d55d36f0 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62161,localport=8080]. Количество пользователей в сети: 2.
+2021-12-02 01:06:12.336 [Client/127.0.0.1_62151] INFO  org.example.Server - Пользователю 7a196afc-b9b0-4e1e-897b-4d9f2b5cbed9 присвоено ИМЯ: '111'.
+2021-12-02 01:06:20.388 [Client/127.0.0.1_62161] INFO  org.example.Server - Пользователю 23ab9bf2-2bcd-463b-b357-5812d55d36f0 присвоено ИМЯ: '222'.
+2021-12-02 01:06:26.824 [Client/127.0.0.1_62151] INFO  org.example.Server - Пользователь 7a196afc-b9b0-4e1e-897b-4d9f2b5cbed9: 111: lihfv
+2021-12-02 01:06:31.294 [Client/127.0.0.1_62161] INFO  org.example.Server - Пользователь 23ab9bf2-2bcd-463b-b357-5812d55d36f0: 222: likjg
+2021-12-02 01:06:35.898 [Client/127.0.0.1_62151] INFO  org.example.Server - Пользователь 7a196afc-b9b0-4e1e-897b-4d9f2b5cbed9: 111: ;lojg
+2021-12-02 01:06:41.691 [Client/127.0.0.1_62161] INFO  org.example.Server - Пользователь 23ab9bf2-2bcd-463b-b357-5812d55d36f0: 222: kjhv
+2021-12-02 01:06:46.472 [Client/127.0.0.1_62161] INFO  org.example.Server - Пользователь 23ab9bf2-2bcd-463b-b357-5812d55d36f0: 222: /exit
+2021-12-02 01:06:47.005 [Client/127.0.0.1_62161] ERROR org.example.Server - Пользователь 23ab9bf2-2bcd-463b-b357-5812d55d36f0 с именем 222 покинул чат. Количество пользователей в сети: 1.}
+2021-12-02 01:14:25.059 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 01:14:27.661 [MainServer] INFO  org.example.Server - Пользователь 89415f53-f501-43ff-9888-fe285cca9ab5 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62180,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:14:40.087 [MainServer] INFO  org.example.Server - Пользователь 0a14e2c4-6e07-4a00-b467-43e4b273b5c7 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62184,localport=8080]. Количество пользователей в сети: 2.
+2021-12-02 01:14:43.843 [Client/127.0.0.1_62180] INFO  org.example.Server - Пользователю 89415f53-f501-43ff-9888-fe285cca9ab5 присвоено ИМЯ: '222'.
+2021-12-02 01:14:45.956 [Client/127.0.0.1_62180] INFO  org.example.Server - Пользователь 89415f53-f501-43ff-9888-fe285cca9ab5: 222: .kjb
+2021-12-02 01:14:51.777 [Client/127.0.0.1_62184] INFO  org.example.Server - Пользователю 0a14e2c4-6e07-4a00-b467-43e4b273b5c7 присвоено ИМЯ: '111'.
+2021-12-02 01:14:53.187 [Client/127.0.0.1_62184] INFO  org.example.Server - Пользователь 0a14e2c4-6e07-4a00-b467-43e4b273b5c7: 111: ';pioh
+2021-12-02 01:14:53.983 [Client/127.0.0.1_62184] INFO  org.example.Server - Пользователь 0a14e2c4-6e07-4a00-b467-43e4b273b5c7: 111: 'lih
+2021-12-02 01:14:58.154 [Client/127.0.0.1_62180] INFO  org.example.Server - Пользователь 89415f53-f501-43ff-9888-fe285cca9ab5: 222: lkug
+2021-12-02 01:15:02.759 [Client/127.0.0.1_62180] INFO  org.example.Server - Пользователь 89415f53-f501-43ff-9888-fe285cca9ab5: 222: /exit
+2021-12-02 01:15:03.414 [Client/127.0.0.1_62180] ERROR org.example.Server - Пользователь 89415f53-f501-43ff-9888-fe285cca9ab5 с именем 222 покинул чат. Количество пользователей в сети: 1.}
+2021-12-02 01:18:17.059 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 01:18:21.273 [MainServer] INFO  org.example.Server - Пользователь 79f457d7-3c3f-4df9-8ac2-58da2ebc04af присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62207,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:18:35.372 [Client/127.0.0.1_62207] INFO  org.example.Server - Пользователю 79f457d7-3c3f-4df9-8ac2-58da2ebc04af присвоено ИМЯ: '22222'.
+2021-12-02 01:18:37.051 [Client/127.0.0.1_62207] INFO  org.example.Server - Пользователь 79f457d7-3c3f-4df9-8ac2-58da2ebc04af: 22222: .kjb
+2021-12-02 01:18:50.100 [MainServer] INFO  org.example.Server - Пользователь ca693e6e-3cef-4a79-9f5c-46e8070b9863 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62211,localport=8080]. Количество пользователей в сети: 2.
+2021-12-02 01:18:53.895 [Client/127.0.0.1_62211] INFO  org.example.Server - Пользователю ca693e6e-3cef-4a79-9f5c-46e8070b9863 присвоено ИМЯ: '111111'.
+2021-12-02 01:18:55.333 [Client/127.0.0.1_62211] INFO  org.example.Server - Пользователь ca693e6e-3cef-4a79-9f5c-46e8070b9863: 111111: kljbg
+2021-12-02 01:18:59.971 [Client/127.0.0.1_62207] INFO  org.example.Server - Пользователь 79f457d7-3c3f-4df9-8ac2-58da2ebc04af: 22222: /lkn
+2021-12-02 01:19:04.470 [Client/127.0.0.1_62211] INFO  org.example.Server - Пользователь ca693e6e-3cef-4a79-9f5c-46e8070b9863: 111111: liug
+2021-12-02 01:19:13.317 [Client/127.0.0.1_62207] INFO  org.example.Server - Пользователь 79f457d7-3c3f-4df9-8ac2-58da2ebc04af: 22222: /exit
+2021-12-02 01:19:14.023 [Client/127.0.0.1_62207] ERROR org.example.Server - Пользователь 79f457d7-3c3f-4df9-8ac2-58da2ebc04af с именем 22222 потерял связь с сервером. Количество пользователей в сети: 1.}
+2021-12-02 01:22:16.576 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 01:22:22.132 [MainServer] INFO  org.example.Server - Пользователь 0c4a78c5-65d5-4984-a41b-ce2d84d475d7 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62221,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:22:26.178 [Client/127.0.0.1_62221] INFO  org.example.Server - Пользователю 0c4a78c5-65d5-4984-a41b-ce2d84d475d7 присвоено ИМЯ: '111'.
+2021-12-02 01:22:30.153 [Client/127.0.0.1_62221] INFO  org.example.Server - Пользователь 0c4a78c5-65d5-4984-a41b-ce2d84d475d7: 111: /exit
+2021-12-02 01:22:30.756 [Client/127.0.0.1_62221] ERROR org.example.Server - Пользователь 0c4a78c5-65d5-4984-a41b-ce2d84d475d7 с именем 111 потерял связь с сервером. Количество пользователей в сети: 0.}
+2021-12-02 01:24:14.508 [MainServer] INFO  org.example.Server - Пользователь 51fa87fd-c7d9-44d0-98ed-e673cadef07a присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62238,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:24:19.564 [Client/127.0.0.1_62238] INFO  org.example.Server - Пользователю 51fa87fd-c7d9-44d0-98ed-e673cadef07a присвоено ИМЯ: '654654'.
+2021-12-02 01:24:23.375 [Client/127.0.0.1_62238] INFO  org.example.Server - Пользователь 51fa87fd-c7d9-44d0-98ed-e673cadef07a: 654654: olu;b
+2021-12-02 01:24:23.989 [Client/127.0.0.1_62238] INFO  org.example.Server - Пользователь 51fa87fd-c7d9-44d0-98ed-e673cadef07a: 654654: k.jb
+2021-12-02 01:24:25.039 [Client/127.0.0.1_62238] INFO  org.example.Server - Пользователь 51fa87fd-c7d9-44d0-98ed-e673cadef07a: 654654: kljb
+2021-12-02 01:24:27.463 [Client/127.0.0.1_62238] ERROR org.example.Server - Пользователь 51fa87fd-c7d9-44d0-98ed-e673cadef07a с именем 654654 потерял связь с сервером. Количество пользователей в сети: 0.}
+2021-12-02 01:27:27.195 [MainServer] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=62299,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 01:27:33.008 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователю a5c27f05-b1b0-442e-8256-31ec51736d88 присвоено ИМЯ: '642534364354'.
+2021-12-02 01:27:34.268 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88: 642534364354: ljkb
+2021-12-02 01:27:34.867 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88: 642534364354: kjb
+2021-12-02 01:27:35.455 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88: 642534364354: kj
+2021-12-02 01:27:42.981 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88: 642534364354: /exit
+2021-12-02 01:27:44.144 [Client/127.0.0.1_62299] ERROR org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88 с именем 642534364354 потерял связь с сервером. Количество пользователей в сети: 0.}
+2021-12-02 01:29:30.927 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
