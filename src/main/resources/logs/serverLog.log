@@ -184,3 +184,131 @@
 2021-12-02 01:27:42.981 [Client/127.0.0.1_62299] INFO  org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88: 642534364354: /exit
 2021-12-02 01:27:44.144 [Client/127.0.0.1_62299] ERROR org.example.Server - Пользователь a5c27f05-b1b0-442e-8256-31ec51736d88 с именем 642534364354 потерял связь с сервером. Количество пользователей в сети: 0.}
 2021-12-02 01:29:30.927 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 11:54:38.684 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 11:55:25.368 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:03:32.284 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:36:01.169 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:36:15.393 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:37:08.270 [MainServer] INFO  org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=64157,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 12:37:12.623 [Client/127.0.0.1_64157] INFO  org.example.Server - Пользователю dfd08cb7-ef48-493f-81c0-4f94509b3378 присвоено ИМЯ: 'UUU'.
+2021-12-02 12:37:48.513 [Client/127.0.0.1_64157] INFO  org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378: UUU: jh
+2021-12-02 12:37:49.188 [Client/127.0.0.1_64157] INFO  org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378: UUU: jgc
+2021-12-02 12:37:50.300 [Client/127.0.0.1_64157] INFO  org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378: UUU: jyug
+2021-12-02 12:37:54.829 [Client/127.0.0.1_64157] INFO  org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378: UUU: /exit
+2021-12-02 12:37:55.887 [Client/127.0.0.1_64157] ERROR org.example.Server - Пользователь dfd08cb7-ef48-493f-81c0-4f94509b3378 с именем UUU покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 12:45:37.345 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:46:20.327 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:46:46.177 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:47:49.149 [main] ERROR org.example.Server - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 12:49:52.384 [main] ERROR org.example.Server - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 12:50:52.179 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 8080.
+2021-12-02 12:53:00.871 [main] ERROR org.example.Server - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 12:55:52.628 [main] ERROR org.example.Server - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 12:55:52.641 [MainServer] ERROR org.example.Server - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 12:55:52.643 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 0.
+2021-12-02 12:57:41.444 [main] ERROR org.example.Server - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 12:57:41.458 [MainServer] ERROR org.example.Server - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 12:57:41.461 [MainServer] INFO  org.example.Server - Сервер запущен на порту - 66000.
+2021-12-02 12:57:41.463 [MainServer] INFO  org.example.Server - Сервер завершил работу.
+2021-12-02 13:07:16.307 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:07:16.318 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:07:16.321 [MainServer] INFO  org.example.App - Сервер запущен на порту - 66000.
+2021-12-02 13:07:16.322 [MainServer] INFO  org.example.App - Сервер завершил работу.
+2021-12-02 13:07:16.323 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:11:33.700 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:11:33.711 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:11:33.713 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:11:33.714 [MainServer] INFO  org.example.App - Сервер запущен на порту - 66000.
+2021-12-02 13:11:33.715 [MainServer] INFO  org.example.App - Сервер завершил работу.
+2021-12-02 13:11:33.716 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:12:09.890 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:12:09.901 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:12:17.837 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:12:27.687 [MainServer] INFO  org.example.App - Сервер запущен на порту - 66000.
+2021-12-02 13:13:27.610 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:13:27.620 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:13:27.621 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:13:27.622 [MainServer] INFO  org.example.App - Сервер запущен на порту - 66000.
+2021-12-02 13:13:27.623 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:14:29.812 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:14:29.829 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:14:38.425 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:14:43.232 [MainServer] INFO  org.example.App - Сервер запущен на порту - 66000.
+2021-12-02 13:16:28.887 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:16:28.898 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:16:28.899 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:16:28.900 [MainServer] INFO  org.example.App - Сервер запущен на порту - 0.
+2021-12-02 13:20:31.858 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:20:31.867 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:20:31.868 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:20:31.870 [MainServer] INFO  org.example.App - Сервер запущен на порту - 0.
+2021-12-02 13:23:11.073 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:23:11.082 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:23:11.086 [MainServer] INFO  org.example.App - Сервер запущен на порту - 0.
+2021-12-02 13:24:28.914 [main] ERROR org.example.App - java.io.FileNotFoundException: src\main\resources\setting.txt (Не удается найти указанный файл)
+2021-12-02 13:24:28.924 [MainServer] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:24:28.925 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:26:32.256 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 13:28:29.944 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 13:34:15.214 [main] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:34:15.224 [main] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:35:39.939 [main] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:35:39.946 [main] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:37:32.873 [main] ERROR org.example.App - Файл setting.txt не найден. java.lang.NullPointerException: Cannot invoke "java.io.BufferedInputStream.read()" because "bis" is null
+2021-12-02 13:37:32.900 [main] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 13:38:30.886 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 16:14:38.255 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 16:15:02.263 [MainServer] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=50534,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 16:15:12.153 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователю 39cf4cb5-00c2-4b85-a7d8-38011518bf51 присвоено ИМЯ: 'UUU'.
+2021-12-02 16:15:13.539 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51: UUU: ioug
+2021-12-02 16:15:14.267 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51: UUU: jydf
+2021-12-02 16:15:14.926 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51: UUU: jyc
+2021-12-02 16:15:15.557 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51: UUU: jgc
+2021-12-02 16:15:20.177 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51: UUU: /exit
+2021-12-02 16:15:21.273 [Client/127.0.0.1_50534] INFO  org.example.App - Пользователь 39cf4cb5-00c2-4b85-a7d8-38011518bf51 с именем UUU покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 16:16:23.847 [MainServer] INFO  org.example.App - Пользователь e8925f72-c508-42e5-bd42-28159f894240 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=50540,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 16:17:26.528 [Client/127.0.0.1_50540] INFO  org.example.App - Пользователь e8925f72-c508-42e5-bd42-28159f894240 с именем null покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 16:17:34.834 [MainServer] INFO  org.example.App - Пользователь 4db71ec0-2f47-4acf-bc71-cbb974dd5d8f присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=50549,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 16:21:53.164 [Client/127.0.0.1_50549] INFO  org.example.App - Пользователь 4db71ec0-2f47-4acf-bc71-cbb974dd5d8f с именем null покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 16:22:02.637 [MainServer] INFO  org.example.App - Пользователь 2da71dde-a343-4e7f-8fa1-ed6c52d90edb присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=50565,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 16:22:08.363 [Client/127.0.0.1_50565] INFO  org.example.App - Пользователю 2da71dde-a343-4e7f-8fa1-ed6c52d90edb присвоено ИМЯ: 'k'.
+2021-12-02 16:22:09.489 [Client/127.0.0.1_50565] INFO  org.example.App - Пользователь 2da71dde-a343-4e7f-8fa1-ed6c52d90edb: k: oujg
+2021-12-02 16:22:12.892 [Client/127.0.0.1_50565] INFO  org.example.App - Пользователь 2da71dde-a343-4e7f-8fa1-ed6c52d90edb: k: /exit
+2021-12-02 16:22:14.006 [Client/127.0.0.1_50565] INFO  org.example.App - Пользователь 2da71dde-a343-4e7f-8fa1-ed6c52d90edb с именем k покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 17:43:24.371 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 17:47:01.133 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 17:47:32.572 [MainServer] INFO  org.example.App - Пользователь b81db582-fc76-45b6-818b-7226ce07a9fb присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=52194,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 19:32:31.309 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 19:35:31.476 [MainServer] ERROR org.example.App - Ошибка чтения файла setting.txt.
+2021-12-02 19:35:31.476 [Thread-1] ERROR org.example.App - Ошибка чтения файла setting.txt.
+2021-12-02 19:35:31.488 [Thread-1] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 19:35:31.488 [MainServer] ERROR org.example.App - Сервер завершил работу.
+2021-12-02 19:36:00.662 [MainServer] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 20:04:50.435 [SERVER_THREAD] INFO  org.example.App - Сервер запущен на порту - 8080.
+2021-12-02 20:05:09.150 [SERVER_THREAD] INFO  org.example.App - Пользователь 8c2828d7-6af3-4d1c-b69f-09672458ff78 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63427,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 20:05:20.518 [Client/127.0.0.1_63427] INFO  org.example.App - Пользователь 8c2828d7-6af3-4d1c-b69f-09672458ff78 с именем null покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 20:05:23.680 [SERVER_THREAD] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63431,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 20:05:31.284 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователю cd677820-3d99-45ab-b256-c584e2d13474 присвоено ИМЯ: 'UUU'.
+2021-12-02 20:05:33.686 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474: UUU: lkhb
+2021-12-02 20:05:34.425 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474: UUU: kjhvb
+2021-12-02 20:05:35.143 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474: UUU: kjb
+2021-12-02 20:05:38.680 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474: UUU: /exit
+2021-12-02 20:05:39.276 [Client/127.0.0.1_63431] INFO  org.example.App - Пользователь cd677820-3d99-45ab-b256-c584e2d13474 с именем UUU покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 20:08:49.632 [SERVER_THREAD] INFO  org.example.App - Пользователь d47c5755-b843-4c6f-8378-e0b206cc9256 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63455,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 20:09:10.247 [Client/127.0.0.1_63455] INFO  org.example.App - Пользователь d47c5755-b843-4c6f-8378-e0b206cc9256 с именем null покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 20:09:15.034 [SERVER_THREAD] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63462,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 20:10:20.374 [SERVER_THREAD] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63471,localport=8080]. Количество пользователей в сети: 2.
+2021-12-02 20:10:27.380 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователю a05c5ddd-68eb-45d0-a348-8c05f3b3a064 присвоено ИМЯ: '222'.
+2021-12-02 20:11:00.856 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователю c0f8302c-bb1e-44d1-821d-c6ee04ac12f4 присвоено ИМЯ: 'Привет!'.
+2021-12-02 20:11:09.617 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064: 222: TTT
+2021-12-02 20:11:21.753 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4: Привет!: ?????
+2021-12-02 20:11:39.347 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064: 222: ЧТО ЭТО???
+2021-12-02 20:11:50.117 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4: Привет!: ГДЕ???????
+2021-12-02 20:12:04.300 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064: 222: Почему 2 сообщ сразу пришли?
+2021-12-02 20:12:21.698 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4: Привет!: ФООЛЛ
+2021-12-02 20:12:43.354 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064: 222: Привет! - это твое имя!)))
+2021-12-02 20:12:52.302 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4: Привет!: нук да))
+2021-12-02 20:13:04.761 [Client/127.0.0.1_63471] INFO  org.example.App - Пользователь a05c5ddd-68eb-45d0-a348-8c05f3b3a064 с именем 222 покинул чат. Количество пользователей в сети: 1.}
+2021-12-02 20:13:10.629 [Client/127.0.0.1_63462] INFO  org.example.App - Пользователь c0f8302c-bb1e-44d1-821d-c6ee04ac12f4 с именем Привет! покинул чат. Количество пользователей в сети: 0.}
+2021-12-02 20:13:13.694 [SERVER_THREAD] INFO  org.example.App - Пользователь 72f94df8-e531-4973-90d8-34de2f0525e8 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63481,localport=8080]. Количество пользователей в сети: 1.
+2021-12-02 20:13:18.576 [SERVER_THREAD] INFO  org.example.App - Пользователь fceb7dd2-fd1c-4c04-b45a-34d806bc70b5 присоединился к чату. Socket: Socket[addr=/127.0.0.1,port=63485,localport=8080]. Количество пользователей в сети: 2.

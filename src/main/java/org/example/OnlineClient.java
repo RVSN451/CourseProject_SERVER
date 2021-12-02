@@ -3,7 +3,6 @@ package org.example;
 
 import lombok.*;
 import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.net.Socket;
@@ -15,8 +14,9 @@ import java.util.UUID;
 @NoArgsConstructor
 @EqualsAndHashCode(callSuper = false, onlyExplicitlyIncluded = true)
 public class OnlineClient extends Thread {
+    public static final Logger log = App.log;
     private static final List<OnlineClient> ONLINE_CLIENTS = Server.ONLINE_CLIENTS;
-    private final static Logger log = Server.log;
+
 
     @EqualsAndHashCode.Include
     @Setter(AccessLevel.NONE)
@@ -39,7 +39,6 @@ public class OnlineClient extends Thread {
             e.printStackTrace();
         }
     }
-
 
     @Override
     public void run() {
@@ -70,7 +69,7 @@ public class OnlineClient extends Thread {
                 }
             }
         } catch (SocketException socketException) {
-            log.error("Пользователь {} с именем {} покинул чат. " +
+            log.info("Пользователь {} с именем {} покинул чат. " +
                     "Количество пользователей в сети: {}.}", clientID, clientName, (ONLINE_CLIENTS.size() - 1));
             sendMessageToAllClients("Пользователь " + clientName + " покинул чат." +
                     "\nКоличество пользователей в сети: " + (ONLINE_CLIENTS.size() - 1));
@@ -78,7 +77,6 @@ public class OnlineClient extends Thread {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
 
@@ -91,9 +89,7 @@ public class OnlineClient extends Thread {
     }
 
     private void sendMessage(String message) {
-        out.println(                                                                                                                message);
+        out.println(message);
         out.flush();
     }
-
-
 }
